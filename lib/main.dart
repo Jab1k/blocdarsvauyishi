@@ -1,6 +1,4 @@
-import 'package:blockdars/bloc/bloc_cupit.dart';
 import 'package:blockdars/bloc/bloc_uyiwi.dart';
-import 'package:blockdars/pages/new.dart';
 import 'package:blockdars/pages/uyiwi.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
